@@ -8,6 +8,8 @@ Integrantes:
 
 Enlace video youtube: https://www.youtube.com/watch?v=8M7WWgUi6AM&feature=youtu.be 
 
+Todos los datasets, son propios y fueron extraídos por el grupo, por lo que son varias imágenes y se encuentran en archivos comprimidos, tanto aquí, como en Blackboard.
+
 El proyecto consiste en detectar un objeto en video con las herramientas de opencv, como lo son Matching Template y Contornos; y poder observar lo que le sucede en el tiempo a través de una gráfica, la cuál servira como punto de partida para realizar mejores análisis en los ámbitos de las ciencias básicas.
 
 Primero fue escencial utilizar el código de Sacar_frames.py, donde encuentra los fotogramas del video ingresado, llamado en este caso Video3.mp4:
